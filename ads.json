@@ -7,18 +7,18 @@
 	"ironsource_app_key":"10bc7dafd",
 	
 	"network_type":"admob",
-	"interstitial_counter":3,
+	"interstitial_counter":1,
 	
-	"radio_channel_url":"http://149.202.22.75:8032/live",
+	"radio_channel_url":"http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3",
 	
 
-	"facebook_name":"mypage",
-	"twitter":"https://saveyourdownload.com/",
+	"facebook_name":"foryougirlsaroundworld",
+	"twitter":"https://twitter.com/SamsungMaroc",
 	"instagram":"https://saveyourdownload.com/",
 	"website":"https://saveyourdownload.com/",
 	"appcontact":"+1-202-555-0119",
 	
-	"auto_play":false,
+	"auto_play":true,
 	
 	"privacy_url":"https://saveyourdownload.com/"
 }
