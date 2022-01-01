@@ -6,7 +6,7 @@
 	
 	"ironsource_app_key":"10bc7dafd",
 	
-	"network_type":"admob",
+	"network_type":"iron",
 	"interstitial_counter":2,
 	
 	"radio_channel_url":"http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3",
