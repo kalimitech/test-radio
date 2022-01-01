@@ -6,7 +6,7 @@
 	
 	"ironsource_app_key":"10bc7dafd",
 	
-	"network_type":"iron",
+	"network_type":"admob",
 	"interstitial_counter":3,
 	
 	"radio_channel_url":"http://149.202.22.75:8032/live",
